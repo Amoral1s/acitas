@@ -668,6 +668,10 @@ section {
     max-width: 740px;
   }
 
+  .header {
+    display: none;
+  }
+
   .mob-header {
     display: block;
     position: fixed;
