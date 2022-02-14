@@ -1741,7 +1741,7 @@ h2.title::after {
 
   .none {
     padding-top: 90px;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
     padding-bottom: 0;
   }
 
