@@ -832,6 +832,7 @@ h2.title::after {
           justify-content: space-between;
   max-width: 1012px;
   margin: auto;
+  margin-bottom: 30px;
 }
 
 .none-wrap h1 {
